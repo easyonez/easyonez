@@ -12,11 +12,7 @@ I'm learning **Python** and **Javascript** ! ☀️
 
 
 Wanna contact me? [Twitter](https://twitter.com/easyon_ez) 📲
-  
-<h1 align="center">
-    Give me a coffee!
-</h1>
+
+Give me a coffee!
 ETH: 
-```
-0x3C19Db0D516d0a920A5719C495741c007067B685
-```
+```0x3C19Db0D516d0a920A5719C495741c007067B685```
