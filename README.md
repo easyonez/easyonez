@@ -1,4 +1,4 @@
-## EasyOn_EZ Account README 👺
+## EasyOn Account README 👺
 
 **EasyOn**, 18 years old
 IT/FR
