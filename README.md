@@ -13,6 +13,7 @@ IT/FR
     <img src="https://img.shields.io/badge/e4syOn-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+
 ![EasyOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyonez&theme=ambient_gradient&show_icons=true)
 [<img height="80px" src="https://discord.c99.nl/widget/theme-4/1075544459225342032.png"/>](https://discord.com/users/1075544459225342032)
 
