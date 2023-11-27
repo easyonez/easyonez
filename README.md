@@ -1,7 +1,7 @@
 ## EasyOn Account README 👺
 
 **EasyOn**, 18 years old
-IT/FR
+IT/FR/MA
 <div id="badges">
   <a href="https://easyon.fr">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website Badge"/>
