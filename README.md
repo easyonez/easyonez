@@ -6,7 +6,7 @@ IT/FR
   <a href="https://easyon.fr">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="twitch.tv/easyonezz">
+  <a href="https://twitch.tv/easyonezz">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
   <a href="https://twitter.com/e4syon">
