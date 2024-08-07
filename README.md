@@ -4,9 +4,10 @@
 19 years old
 IT/MA
 
-cybersecurity wannabe.
+cybersecurity wannabe and CTF player
 
-<a href="https://pwn.college">White Belt at pwn.college</a>
+White belt at: <a href="https://pwn.college">pwn.college</a></br>
+My website: <a href="https://aala.ajmai.me">aala.ajmai.me</a>
 
 <div id="badges">
   <a href="https://twitter.com/e4syon">
