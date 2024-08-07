@@ -14,3 +14,6 @@ My website: <a href="https://aala.ajmai.me">aala.ajmai.me</a>
     <img src="https://img.shields.io/badge/e4syOn-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+
+### Need to contact me?
+My mail: aala@ajmai.me
