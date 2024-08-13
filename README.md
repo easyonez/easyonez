@@ -1,6 +1,6 @@
 ## EasyOn Account README 👺
 
-**EasyOn**, 
+Aala "**EasyOn**" Ajmaime, 
 19 years old
 IT/MA
 
