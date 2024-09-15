@@ -16,8 +16,8 @@ My website: <a href="https://aala.ajmai.me">aala.ajmai.me</a><br>
   <a href="https://www.linkedin.com/in/aala-ajmaime-722757305/">
   	<img src="https://img.shields.io/badge/Aala%20Ajmaime-blue?style=for-the-bade&logo=linkedin&logoColor=white")] alt="Linkedin Badge"/>
   </a>
-</div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1075544459225342032)](https://discord.com/users/1075544459225342032)
+</div><br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1075544459225342032)](https://discord.com/users/1075544459225342032)
 ### Need to contact me?
 My mail: aala@ajmai.me
