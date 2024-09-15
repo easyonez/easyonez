@@ -7,7 +7,6 @@ IT/MA
 cybersecurity wannabe and CTF player
 
 Spending my free time on videogames and also on <a href="https://pwn.college">pwn.college</a> and <a href="https://HackTheBox.com">HackTheBox</a><br>
-My website: <a href="https://aala.ajmai.me">aala.ajmai.me</a><br>
 
 <div id="badges">
   <a href="https://twitter.com/e4syon">
@@ -19,5 +18,3 @@ My website: <a href="https://aala.ajmai.me">aala.ajmai.me</a><br>
 </div><br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1075544459225342032)](https://discord.com/users/1075544459225342032)
-### Need to contact me?
-My mail: aala@ajmai.me
