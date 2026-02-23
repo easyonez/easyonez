@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aala "**EasyOn**" Ajmaime, 20 years old IT/MA
+Aala "**EasyOn**" Ajmaime, 21 years old IT/MA
 
 cybersecurity wannabe and CTF player
 
